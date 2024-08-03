@@ -1,0 +1,25 @@
+.content{
+    display: flex;
+}
+.contentimg{
+    border-radius: 10px;
+}
+.contentpara{
+    padding-left: 6%;
+    text-align: center;
+    margin-right: 10%;
+    line-height: 25px;
+    font-size: larger;
+    font-weight: 500;
+    margin-top: 4%;
+    color: #99465c;
+}
+.contentpara2{
+    text-align: center;
+    margin-right: 10%;
+    line-height: 25px;
+    font-size: larger;
+    font-weight: 500;
+    margin-top: 4%;
+    color: #99465c;
+}

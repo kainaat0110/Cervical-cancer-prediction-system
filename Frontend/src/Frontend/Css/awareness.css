@@ -1,0 +1,19 @@
+
+.bgawareness {
+    background-image: linear-gradient(to bottom, #fff, #ffcbd8);
+    padding-bottom: 50%;
+  }
+.carddiv{
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 10%;
+}
+.article-box{
+  justify-content: space-around;
+  position: relative;
+  margin-left: 31%;
+  margin-top: 5%;
+}

@@ -1,0 +1,74 @@
+.img{
+    margin-left: 55%;
+    margin-bottom: 60%;
+    z-index: 1;
+}
+.visitor{
+    display: flex;
+    margin-bottom: -65% ;
+}
+.textbox{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 8%;
+    margin-right: 55%;
+    line-height: 40px;
+    font-weight: 600;
+}
+.head{
+    font-style: italic;
+    color: #af687a;
+    font-size: 45px;
+    line-height: 45px;
+}
+.para{
+    color: #af687a;
+    font-size: 20px;
+
+}
+.description{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10%;
+    margin-left: 10%;
+   
+}
+.descbox{
+    height: 270px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.logo{
+    padding-left: 36%;
+}
+.visitorbg{
+    padding-top: 10%;
+    padding-bottom: 50%;
+    background-image: linear-gradient(to bottom, #fff, #ffcbd8);
+    
+} 
+.para2{
+    font-size: 15px;
+    text-align: center;
+    color:#8A3948;
+    line-height: 20px;
+}
+.title{
+    color: #8A3948;
+    text-align: center;
+}
+.stages{
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 11%;
+}
+.tname{
+    text-align: center;
+    text-decoration: underline;
+}
+.dr{
+    display: flex;
+    justify-content: space-around;
+}

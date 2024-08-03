@@ -1,0 +1,27 @@
+.butn {
+    width: 18em;
+    position: relative;
+    height: 3.5em;
+    border: 3px ridge rgba(0, 73, 144);
+    outline: none;
+    background-color: transparent;
+    color: rgba(0, 73, 144);
+    transition: 1s;
+    border-radius: 0.5em;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    
+  }
+.butnclass{
+    padding-bottom: 20%;
+}
+  
+
+.butn:hover::before, .butn:hover::after {
+    transform: scale(0)
+  }
+  
+.butn:hover {
+    box-shadow: inset 0px 0px 25px rgba(0, 73, 144);
+  }

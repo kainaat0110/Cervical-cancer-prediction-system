@@ -1,0 +1,61 @@
+.textbox2{
+   display: flex;
+   z-index: 2;
+}
+.butns{
+    position: absolute;
+    justify-content: space-around;
+    margin-top: 20%;
+    margin-left: 60%;
+    
+}
+.decbox{
+    position: absolute;
+    top: 115%;
+    margin-left: 0%;
+    width:90%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+}
+.ques{
+    position: absolute;
+    right: -20%;
+}
+.heading{
+    position: absolute;
+    top: -28%;
+    text-align: center;
+    color: rgba(0, 73, 144);
+    font-size: 50px;
+}
+.descbox2{
+    justify-content: space-around;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.para4{
+    padding-top: 4%;
+    line-height: 30px;
+    font-size: large;
+    text-align: center;
+    color: rgba(0, 73, 144);
+    font-weight: 500;
+}
+.contentdiv{
+    position: relative;
+    margin-top: 95%;
+    margin-left: 8%;
+    padding-bottom: 20%;
+    justify-content: space-around;
+    z-index: 2;
+}
+.contentdiv1{
+    padding-bottom: 10%;
+    display: flex;
+}
+.contentdiv2{
+    padding-bottom: 10%;
+    display: flex;
+    margin-right: 8%;
+}
